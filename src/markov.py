@@ -45,6 +45,9 @@ class Model:
 
         finished_sentence = str()
         for word in sentence:
+            if word == '\n':
+                finished_sentence += f'{word}'
+                continue
             finished_sentence += f'{word} '
 
         return finished_sentence
