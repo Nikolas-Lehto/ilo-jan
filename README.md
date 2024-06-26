@@ -1,6 +1,6 @@
 # ilo Jan
 
-ilo Jan li jan ilo kepeken toki ilo Piton kepeken linja Malikopi
+ilo Jan li jan ilo kepeken linja Makowi
 
 ## lawa pana
 
